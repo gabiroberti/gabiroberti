@@ -1,7 +1,7 @@
 - 👋 Oi, meu nome é @gabiroberti
 - ✉ Meu e-mail de contato é gabrieli.roberti@escola.pr.gov.br 
 - 👀 Eu estou interessada em aprender a programar novas linguagens 
-- 🌱 Eu estou aprendendoa programar recentemente a linguagem de JavaScript e Scratch 
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch 
 
 
 <!---
